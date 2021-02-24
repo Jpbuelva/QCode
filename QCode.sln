@@ -13,17 +13,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Common", "4.Common", "{24
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Test", "5.Test", "{E21003A7-5F8A-4527-9800-9E8DCE6A6770}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application.WebApi", "Application.WebApi\Application.WebApi.csproj", "{1E042D71-FA95-4CCD-B34B-DC132A76E79D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application.WebApi", "Application.WebApi\Application.WebApi.csproj", "{1E042D71-FA95-4CCD-B34B-DC132A76E79D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Service", "Domain.Service\Domain.Service.csproj", "{7BB9F0B5-3622-44D1-89C0-55952CF7B165}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.Service", "Domain.Service\Domain.Service.csproj", "{7BB9F0B5-3622-44D1-89C0-55952CF7B165}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructure.Core", "Infraestructure.Core\Infraestructure.Core.csproj", "{3B8CE06A-3181-4046-AE8C-253ED90B2E60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infraestructure.Core", "Infraestructure.Core\Infraestructure.Core.csproj", "{3B8CE06A-3181-4046-AE8C-253ED90B2E60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructure.Entity", "Infraestructure.Entity\Infraestructure.Entity.csproj", "{660E6F45-4EB3-4B06-B368-596B7C86412D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infraestructure.Entity", "Infraestructure.Entity\Infraestructure.Entity.csproj", "{660E6F45-4EB3-4B06-B368-596B7C86412D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common.Utils", "Common.Utils\Common.Utils.csproj", "{38EAAAD8-CAA1-40FB-ADF6-F28E4174627C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common.Utils", "Common.Utils\Common.Utils.csproj", "{38EAAAD8-CAA1-40FB-ADF6-F28E4174627C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest.Test", "UnitTest.Test\UnitTest.Test.csproj", "{126D0F64-B0BD-4749-8BCC-4057138851AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest.Test", "UnitTest.Test\UnitTest.Test.csproj", "{126D0F64-B0BD-4749-8BCC-4057138851AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
